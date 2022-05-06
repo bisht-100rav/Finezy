@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "715149613460",
+    "project_id": "finezylogin",
+    "storage_bucket": "finezylogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715149613460:android:d53f233e1fe0165ef49781",
+        "android_client_info": {
+          "package_name": "com.example.finezy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715149613460-a9i5rj2ccgc15a1latp0jv5rurj4o36f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqFrV0Fyl_Zo2sXiJ2cFN52wDc-aqRy68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715149613460-a9i5rj2ccgc15a1latp0jv5rurj4o36f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
